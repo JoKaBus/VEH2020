@@ -18,8 +18,10 @@ Kontakt: jonathan.busse(at)hhu.de
 ### Python Code:
 - [Übung 1.1 Aufgabe 2, Visualisierung](https://github.com/JoKaBus/VEH2020/blob/master/Uebung11Aufgabe12_upload.ipynb)
 
-Ich empfehler einen kostenlosen Account, [Cocal](cocal.com), einem online python compiler in dem auch zusammen live in der selben Datei geschrieben werden kann.
-Um meinen Python Code (nach dem herunterladen) in Cocalc zu öffnen führen Sie auf der [Website](cocalc.com) folgende Schritte durch
+Wen der Python Code interessiert, empfehle einen kostenlosen Account bei [Cocal](cocal.com).
+Das ist ein online python compiler in dem auch zusammen live in der selben Datei geschrieben werden kann.
+Der Download von Software ist nicht notwendig.
+Um meine .ipynb Datei (nach dem herunterladen) in Cocalc zu öffnen führen Sie auf der [Website](cocalc.com) folgende Schritte durch
 - "Create new Project" (dicker grüner Button)
 - "Upload" (button Mitte Rechts)
 - Klick auf die neue Datei
