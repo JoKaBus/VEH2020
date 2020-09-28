@@ -15,7 +15,7 @@ Kontakt: jonathan.busse(at)hhu.de
 
 ### Präsentationen:
 
-### Python Code:
+### Python[^bignote] Code:
 - [Übung 1.1 Aufgabe 2, Visualisierung](https://github.com/JoKaBus/VEH2020/blob/master/Uebung11Aufgabe12_upload.ipynb)
 
 [^bignote]: Wen der Python Code interessiert, empfehle einen kostenlosen Account bei [Cocal](cocal.com).
