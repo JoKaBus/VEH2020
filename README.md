@@ -8,6 +8,6 @@ Kontakt: jonathan.busse(at)hhu.de
 - [Merkblatt 2019](https://github.com/JonathanVorkurs/MathematikVorkurs2019/blob/master/MerkblattMathematikVorkurs2019.pdf)
 
 ## Zeitplanung:
-- [] (Dienstag, der 28.9) Übung 1.1, Aufgabe 2
+- (Dienstag, der 28.9) Übung 1.1, Aufgabe 2
 
 viel Erfolg im Studienstart :)
