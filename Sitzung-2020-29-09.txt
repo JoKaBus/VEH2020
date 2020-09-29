@@ -1,0 +1,77 @@
+Gruppe 1 (4 personen)
+Joshua
+Merle 
+Chiara
+Phillip
+
+Gruppe 2 
+Joelle 
+Kevin 
+Philipp
+Jan-Niklas
+
+Gruppe 3
+Hannes
+Nils
+Kathrin
+
+Gruppe 4 
+Vasileios
+Daryl
+
+Gruppe 5 
+Marlon
+Max
+
+Gruppe 6 
+Melina
+Lotta
+Michelle
+Jenny
+
+10:30: Aufgabe lösen sortiert
+Recherche:
+    Wikipedia: Ausführlich, allgemein formuliert
+    WolframAlpha: Besser als jeder Taschenrechner 
+    Bücher: Aufgabe-Musteraufgabe?
+
+Zusammenarbeit:
+    Studium schafft niemand allein
+
+Fehlt bisher: 
+Skript! Die Hälfte (!) aller Aufgaben testen ob ihr das Skript gelesen habt und Definitionen anwenden könnt.
+
+Drüber schlafen: Früh genug anfangen, erstmal Ideen sammeln, nicht festbeißen.
+
+Einfachere Aufgabe lösen:
+    Spezialfall: Aufgabe für bestimmte Werte (0,1) lösen
+    Dimension reduzieren: Aufgabe für weniger Variablen lösen
+    Ausprobieren
+    
+Visualisieren: Kann ich ein Bild malen?
+
+Externe Links:    https://www.wolframalpha.com/examples/mathematics/
+		
+
+29-09-10:15: Brainstorming: Wie Aufgabe Lösen?
+Komische Vorstellung
+
+Unser WIssen der letzten Jahre irgendwie aus den hinteren Ecken des Gehirns vorkramen.
+
+Kommiliton*innen fragen/ sich mit ihnen zusammensetzen
+
+Recherche mit Büchern/Internet etc.
+
+Im Skript nachschlagen
+
+Raten, oder wie mein alter Mathelehrer immer sagte: "Nennen Sie mir doch mal eine schöne Zahl ungleich Null."
+
+google
+
+Versuchen soweit zu kommen wie möglich... evtl. hilfe erfragen
+
+Befreundete Menschen fragen
+
+Im Zweifel hat WolframAlpha ne Lösung parat
+
+mit meiner lerngruppe einen überblick verschaffen und weitestgehend selbst versuchen
