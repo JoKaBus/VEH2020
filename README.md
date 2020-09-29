@@ -10,8 +10,9 @@ Kontakt: jonathan.busse(at)hhu.de
 - (Donnerstag - Freitag, der 1/2.10) Eigenarbeit
 
 ## Ressourcen:
-### Merblatt
-- [Merkblatt 2019](https://github.com/JonathanVorkurs/MathematikVorkurs2019/blob/master/MerkblattMathematikVorkurs2019.pdf) (Das Merkblatt ist veraltet aber vollständig)
+### Merblätter:
+- [Merkblatt](https://github.com/JoKaBus/VEH2020/blob/master/MerkblattMathematikVorkurs2020.pdf) (aktuell)
+- [Merkblatt 2019](https://github.com/JonathanVorkurs/MathematikVorkurs2019/blob/master/MerkblattMathematikVorkurs2019.pdf) (veraltet aber vollständig)
 
 ### Präsentationen:
 - [Sitzung 1 vom 29. September](https://github.com/JoKaBus/VEH2020/blob/master/Pres1-2020-29-09.pdf)
@@ -19,10 +20,10 @@ Kontakt: jonathan.busse(at)hhu.de
 ### Python Code:
 - [Übung 1.1 Aufgabe 2, Visualisierung](https://github.com/JoKaBus/VEH2020/blob/master/Uebung11Aufgabe12_upload.ipynb)
 
-> Wen der Python Code interessiert, empfehle einen kostenlosen Account bei [CoCalc](cocal.com).
+> Wen der Python Code interessiert, empfehle einen kostenlosen Account bei [CoCalc](https://cocalc.com/app).
 > Das ist ein online python compiler in dem auch zusammen live in der selben Datei geschrieben werden kann.
 > Der Download von Software ist nicht notwendig.
-> Um meine .ipynb Datei (nach dem herunterladen) in Cocalc zu öffnen führen Sie auf der [Website](cocalc.com) folgende Schritte durch
+> Um meine .ipynb Datei (nach dem herunterladen) in Cocalc zu öffnen führen Sie auf der https://cocalc.com/app folgende Schritte durch
 > -  "Create new Project" (dicker grüner Button)
 > - "Upload" (button Mitte Rechts)
 > - Klick auf die neue Datei
