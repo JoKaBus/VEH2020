@@ -23,7 +23,13 @@ Kontakt: jonathan.busse(at)hhu.de
 > Wen der Python Code interessiert, empfehle einen kostenlosen Account bei [CoCalc](https://cocalc.com/app).
 > Das ist ein online python compiler in dem auch zusammen live in der selben Datei geschrieben werden kann.
 > Der Download von Software ist nicht notwendig.
-> Um meine .ipynb Datei (nach dem herunterladen) in Cocalc zu öffnen führen Sie auf der https://cocalc.com/app folgende Schritte durch
+> Um meinen Code zu Downloaden wählen sie auf dieser Seite
+> - "View Project on GitHub" (blauer Text links)
+> - "Code" (grüner Butten rechts oben)
+> - "Download ZIP" (im drop down menü)
+>
+> und entpacken "VEH2020-master.zip" an einen Ort Ihrer Wahl.
+> Um meine .ipynb Datei (nach dem herunterladen) in Cocalc erstellen Sie sich einen Account und dann auf https://cocalc.com/app 
 > -  "Create new Project" (dicker grüner Button)
 > - "Upload" (button Mitte Rechts)
 > - Klick auf die neue Datei
