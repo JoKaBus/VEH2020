@@ -28,6 +28,7 @@ Kontakt: jonathan.busse(at)hhu.de
 > - Klick auf die neue Datei
 > - Klick auf die Überschrift
 > - "shift+Enter" bis Sie alle Zellen durch haben.  
+>
 > Dabei können Sie die Variablen im Code jederzeit ändern und mit ihnen experimentieren.
 > Die vielen Reiter und Buttons sind erst einmal verwirrend und frustrierend, lassen Sie sich davon nicht verunsichern.
 
