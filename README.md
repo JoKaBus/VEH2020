@@ -6,7 +6,8 @@ Kontakt: jonathan.busse(at)hhu.de
 ```
 
 ## Zeitplanung:
-- (Dienstag, der 28.9) Übung 1.1, Aufgabe 2
+- (Dienstag, der 28.9) Übung 1.1-2
+- (Mittwoch, der 30.9) Übung 1.1-1, Übung 1.2-1, Übung 1.2-1.1
 - (Donnerstag - Freitag, der 1/2.10) Eigenarbeit
 
 ## Ressourcen:
