@@ -19,6 +19,9 @@ Kontakt: jonathan.busse(at)hhu.de
 - [Merkblatt](https://github.com/JoKaBus/VEH2020/blob/master/MerkblattMathematikVorkurs2020.pdf) (aktuell)
 - [Merkblatt 2019](https://github.com/JonathanVorkurs/MathematikVorkurs2019/blob/master/MerkblattMathematikVorkurs2019.pdf) (veraltet aber vollständig)
 
+### Geteilte Notizen:
+- [sitzung 1 vom 29. September](https://github.com/JoKaBus/VEH2020/blob/master/GeteilteNotizen/Sitzung-2020-29-09.txt) (einteilung in Break-Up-Räume, Woche 1)
+
 ### Python Code:
 - [Übung 1.1 Aufgabe 2, Visualisierung](https://github.com/JoKaBus/VEH2020/blob/master/Uebung11Aufgabe12_upload.ipynb)
 
