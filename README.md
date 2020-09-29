@@ -11,12 +11,13 @@ Kontakt: jonathan.busse(at)hhu.de
 - (Donnerstag - Freitag, der 1/2.10) Eigenarbeit
 
 ## Ressourcen:
+### Präsentationen:
+- [Sitzung 1 vom 29. September](https://github.com/JoKaBus/VEH2020/blob/master/Pres1-2020-29-09.pdf)
+- [Sitzung 2 com 30. September](https://github.com/JoKaBus/VEH2020/blob/master/Pres2-2020-30-09.pdf)
+
 ### Merblätter:
 - [Merkblatt](https://github.com/JoKaBus/VEH2020/blob/master/MerkblattMathematikVorkurs2020.pdf) (aktuell)
 - [Merkblatt 2019](https://github.com/JonathanVorkurs/MathematikVorkurs2019/blob/master/MerkblattMathematikVorkurs2019.pdf) (veraltet aber vollständig)
-
-### Präsentationen:
-- [Sitzung 1 vom 29. September](https://github.com/JoKaBus/VEH2020/blob/master/Pres1-2020-29-09.pdf)
 
 ### Python Code:
 - [Übung 1.1 Aufgabe 2, Visualisierung](https://github.com/JoKaBus/VEH2020/blob/master/Uebung11Aufgabe12_upload.ipynb)
