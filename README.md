@@ -13,7 +13,7 @@ Kontakt: jonathan.busse(at)hhu.de
 ## Ressourcen:
 ### Präsentationen:
 - [Sitzung 1 vom 29. September](https://github.com/JoKaBus/VEH2020/blob/master/Pres1-2020-29-09.pdf)
-- [Sitzung 2 com 30. September](https://github.com/JoKaBus/VEH2020/blob/master/Pres2-2020-30-09.pdf)
+- [Sitzung 2 vom 30. September](https://github.com/JoKaBus/VEH2020/blob/master/Pres2-2020-30-09.pdf)
 
 ### Merblätter:
 - [Merkblatt](https://github.com/JoKaBus/VEH2020/blob/master/MerkblattMathematikVorkurs2020.pdf) (aktuell)
