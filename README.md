@@ -29,7 +29,7 @@ Kontakt: jonathan.busse(at)hhu.de
 > - "Download ZIP" (im drop down menü)
 >
 > und entpacken "VEH2020-master.zip" an einen Ort Ihrer Wahl.
-> Um meine .ipynb Datei (nach dem herunterladen) in Cocalc erstellen Sie sich einen Account und dann auf https://cocalc.com/app 
+> Um meine .ipynb Datei (nach dem herunterladen) zu öffnen, erstellen Sie sich einen Account auf https://cocalc.com/app sowie
 > -  "Create new Project" (dicker grüner Button)
 > - "Upload" (button Mitte Rechts)
 > - Klick auf die neue Datei
