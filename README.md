@@ -23,7 +23,7 @@ Kontakt: jonathan.busse(at)hhu.de
 
 ### Geteilte Notizen:
 - [Sitzung 1 vom 29. September](https://github.com/JoKaBus/VEH2020/blob/master/GeteilteNotizen/Sitzung-2020-09-29.txt) (einteilung in Break-Up-Räume, Woche 1)
-- [Sitzung 2 com 30. September](https://github.com/JoKaBus/VEH2020/blob/master/GeteilteNotizen/Sitzung-2020-09-30.txt)
+- [Sitzung 2 vom 30. September](https://github.com/JoKaBus/VEH2020/blob/master/GeteilteNotizen/Sitzung-2020-09-30.txt)
 
 ### Python Code:
 - [Übung 1.1 Aufgabe 2, Visualisierung](https://github.com/JoKaBus/VEH2020/blob/master/PythonCode/Uebung11A2-plot.ipynb)
