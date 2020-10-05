@@ -17,7 +17,8 @@ Kontakt: jonathan.busse(at)hhu.de
 - [Sitzung 3 vom 1. Oktober](https://github.com/JoKaBus/VEH2020/blob/master/Pr%C3%A4sentationen/Pres3-2020-10-01.pdf) (Eigenarbeit)
 - [Sitzung 4 vom 2. Oktober](https://github.com/JoKaBus/VEH2020/blob/master/Pr%C3%A4sentationen/Pres4-2020-10-02.pdf) (Eigenarbeit)
 - [Sitzung 5 vom 5. Oktober](https://github.com/JoKaBus/VEH2020/blob/master/Pr%C3%A4sentationen/Pres5-2020-10-05.pdf)
-- [Sitzung 6 vom 6. Oktober](https://github.com/JoKaBus/VEH2020/blob/master/Pr%C3%A4sentationen/Pres5-2020-10-05.pdf)
+- [Sitzung 6 vom 6. Oktober](https://github.com/JoKaBus/VEH2020/blob/master/Pr%C3%A4sentationen/Pres6-2020-10-05.pdf)
+- [Sitzung 7 vom 7. Oktober](https://github.com/JoKaBus/VEH2020/blob/master/Pr%C3%A4sentationen/Pres7-2020-10-05.pdf)
 
 
 ### Merblätter:
@@ -29,9 +30,10 @@ Kontakt: jonathan.busse(at)hhu.de
 - [Sitzung 2 vom 30. September](https://github.com/JoKaBus/VEH2020/blob/master/GeteilteNotizen/Sitzung-2020-09-30.txt)
 
 ### Python Code:
-- [Übung 1.1 Aufgabe 2, Visualisierung](https://github.com/JoKaBus/VEH2020/blob/master/PythonCode/Uebung11A2-plot.ipynb)
+- [Übung 1.1 Aufgabe 2, Visualisierung](https://github.com/JoKaBus/VEH2020/blob/master/PythonCode/U11A2.ipynb)
 - [Übung 3.1 Aufgabe 2, Visualisierung](https://github.com/JoKaBus/VEH2020/blob/master/PythonCode/U31A2.ipynb)
 - [Übung 3.2 Aufgabe 2, Visualisierung](https://github.com/JoKaBus/VEH2020/blob/master/PythonCode/U32A2.ipynb)
+- [Übung 4.1 Aufgabe 2, Visualisierung](https://github.com/JoKaBus/VEH2020/blob/master/PythonCode/U41A2.ipynb)
 
 > Wen der Python Code interessiert, empfehle einen kostenlosen Account bei [CoCalc](https://cocalc.com/app).
 > Das ist ein online python compiler in dem auch zusammen live in der selben Datei geschrieben werden kann.
