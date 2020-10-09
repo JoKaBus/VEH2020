@@ -20,6 +20,7 @@ Kontakt: jonathan.busse(at)hhu.de
 - [Sitzung 6 vom 6. Oktober](https://github.com/JoKaBus/VEH2020/blob/master/Pr%C3%A4sentationen/Pres6-2020-10-06.pdf)
 - [Sitzung 7 vom 7. Oktober](https://github.com/JoKaBus/VEH2020/blob/master/Pr%C3%A4sentationen/Pres7-2020-10-07.pdf)
 - [Sitzung 8 vom 8. Oktober](https://github.com/JoKaBus/VEH2020/blob/master/Pr%C3%A4sentationen/Pres8-2020-10-08.pdf)
+- [Sitzung 9 vom 9. Oktober](https://github.com/JoKaBus/VEH2020/blob/master/Pr%C3%A4sentationen/Pres8-2020-10-09.pdf)
 
 
 ### Merblätter:
@@ -29,6 +30,7 @@ Kontakt: jonathan.busse(at)hhu.de
 ### Geteilte Notizen:
 - [Sitzung 1 vom 29. September](https://github.com/JoKaBus/VEH2020/blob/master/GeteilteNotizen/Sitzung-2020-09-29.txt) (einteilung in Break-Up-Räume, Woche 1)
 - [Sitzung 2 vom 30. September](https://github.com/JoKaBus/VEH2020/blob/master/GeteilteNotizen/Sitzung-2020-09-30.txt)
+- [Sitzung 9 vom 9. Oktober](https://github.com/JoKaBus/VEH2020/blob/master/GeteilteNotizen/Sitzung-2020-10-09.txt)
 
 ### Python Code:
 - [Übung 1.1 Aufgabe 2, Visualisierung](https://github.com/JoKaBus/VEH2020/blob/master/PythonCode/U11A2.ipynb)
@@ -36,6 +38,8 @@ Kontakt: jonathan.busse(at)hhu.de
 - [Übung 3.2 Aufgabe 2, Visualisierung](https://github.com/JoKaBus/VEH2020/blob/master/PythonCode/U32A2.ipynb)
 - [Übung 4.1 Aufgabe 2, Visualisierung](https://github.com/JoKaBus/VEH2020/blob/master/PythonCode/U41A2.ipynb)
 - [Übung 4.2 Aufgabe 2, Visualisierung](https://github.com/JoKaBus/VEH2020/blob/master/PythonCode/U42A2.ipynb) 
+- [Übung 4.3 Aufgabe 1, Visualisierung](https://github.com/JoKaBus/VEH2020/blob/master/PythonCode/U43A1.ipynb) 
+
 (oder Sie laden die 
 [Animation](https://github.com/JoKaBus/VEH2020/blob/master/Sonstiges/U42A2ParabolaAnimation.mp4) der Parabel direkt herunter)
 
