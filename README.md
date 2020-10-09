@@ -20,7 +20,7 @@ Kontakt: jonathan.busse(at)hhu.de
 - [Sitzung 6 vom 6. Oktober](https://github.com/JoKaBus/VEH2020/blob/master/Pr%C3%A4sentationen/Pres6-2020-10-06.pdf)
 - [Sitzung 7 vom 7. Oktober](https://github.com/JoKaBus/VEH2020/blob/master/Pr%C3%A4sentationen/Pres7-2020-10-07.pdf)
 - [Sitzung 8 vom 8. Oktober](https://github.com/JoKaBus/VEH2020/blob/master/Pr%C3%A4sentationen/Pres8-2020-10-08.pdf)
-- [Sitzung 9 vom 9. Oktober](https://github.com/JoKaBus/VEH2020/blob/master/Pr%C3%A4sentationen/Pres8-2020-10-09.pdf)
+- [Sitzung 9 vom 9. Oktober](https://github.com/JoKaBus/VEH2020/blob/master/Pr%C3%A4sentationen/Pres9-2020-10-09.pdf)
 
 
 ### Merblätter:
