@@ -39,7 +39,6 @@ Kontakt: jonathan.busse(at)hhu.de
 - [Übung 4.1 Aufgabe 2, Visualisierung](https://github.com/JoKaBus/VEH2020/blob/master/PythonCode/U41A2.ipynb)
 - [Übung 4.2 Aufgabe 2, Visualisierung](https://github.com/JoKaBus/VEH2020/blob/master/PythonCode/U42A2.ipynb) 
 - [Übung 4.3 Aufgabe 1, Visualisierung](https://github.com/JoKaBus/VEH2020/blob/master/PythonCode/U43A1.ipynb) 
-
 (oder Sie laden die 
 [Animation](https://github.com/JoKaBus/VEH2020/blob/master/Sonstiges/U42A2ParabolaAnimation.mp4) der Parabel direkt herunter)
 
