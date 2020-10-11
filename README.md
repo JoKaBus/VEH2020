@@ -37,12 +37,10 @@ Kontakt: jonathan.busse(at)hhu.de
 - [Übung 3.1 Aufgabe 2, Visualisierung](https://github.com/JoKaBus/VEH2020/blob/master/PythonCode/U31A2.ipynb)
 - [Übung 3.2 Aufgabe 2, Visualisierung](https://github.com/JoKaBus/VEH2020/blob/master/PythonCode/U32A2.ipynb)
 - [Übung 4.1 Aufgabe 2, Visualisierung](https://github.com/JoKaBus/VEH2020/blob/master/PythonCode/U41A2.ipynb)
-- [Übung 4.2 Aufgabe 2, Visualisierung](https://github.com/JoKaBus/VEH2020/blob/master/PythonCode/U42A2.ipynb) 
-- [Übung 4.3 Aufgabe 1, Visualisierung](https://github.com/JoKaBus/VEH2020/blob/master/PythonCode/U43A1.ipynb)
-- [Übung 5.1 Aufgabe 1, Visualisierung](https://github.com/JoKaBus/VEH2020/blob/master/PythonCode/U53A1.ipynb) 
-
-(oder Sie laden die 
+- [Übung 4.2 Aufgabe 2, Visualisierung](https://github.com/JoKaBus/VEH2020/blob/master/PythonCode/U42A2.ipynb) (oder Sie laden die 
 [Animation](https://github.com/JoKaBus/VEH2020/blob/master/Sonstiges/U42A2ParabolaAnimation.mp4) der Parabel direkt herunter)
+- [Übung 4.3 Aufgabe 1, Visualisierung](https://github.com/JoKaBus/VEH2020/blob/master/PythonCode/U43A1.ipynb) 
+- [Übung 5.1 Aufgabe 1, Visualisierung](https://github.com/JoKaBus/VEH2020/blob/master/PythonCode/U53A1.ipynb) 
 
 Wenn Sie der Code für die [Fraktale](https://www.instagram.com/p/CGN671jjbgx/) Interessiert, fragen Sie einfach nach. Weitere Visualisierungen gibt es auf [Instagram](https://www.instagram.com/p/CGN7cpSC6mq/).
 
