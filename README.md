@@ -44,7 +44,7 @@ Kontakt: jonathan.busse(at)hhu.de
 
 Wenn Sie der Code für die [Fraktale](https://www.instagram.com/p/CGN671jjbgx/) Interessiert, fragen Sie einfach nach. Weitere Visualisierungen gibt es auf [Instagram](https://www.instagram.com/p/CGN7cpSC6mq/).
 
-> Wen der Python Code interessiert, empfehle einen kostenlosen Account bei [CoCalc](https://cocalc.com/app).
+> Wer den Python Code selbst ausprobieren möchte, empfehle einen kostenlosen Account bei [CoCalc](https://cocalc.com/app).
 > Das ist ein online python compiler in dem auch zusammen live in der selben Datei geschrieben werden kann.
 > Der Download von Software ist nicht notwendig.
 > Um meinen Code zu Downloaden wählen sie auf dieser Seite
