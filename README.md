@@ -21,7 +21,8 @@ Kontakt: jonathan.busse(at)hhu.de
 - [Sitzung 7 vom 7. Oktober](https://github.com/JoKaBus/VEH2020/blob/master/Pr%C3%A4sentationen/Pres7-2020-10-07.pdf)
 - [Sitzung 8 vom 8. Oktober](https://github.com/JoKaBus/VEH2020/blob/master/Pr%C3%A4sentationen/Pres8-2020-10-08.pdf)
 - [Sitzung 9 vom 9. Oktober](https://github.com/JoKaBus/VEH2020/blob/master/Pr%C3%A4sentationen/Pres9-2020-10-09.pdf)
-- [Sitzung 10 vom 12. Oktober](https://github.com/JoKaBus/VEH2020/blob/master/Pr%C3%A4sentationen/Pres9-2020-10-09.pdf)
+- [Sitzung 10 vom 12. Oktober](https://github.com/JoKaBus/VEH2020/blob/master/Pr%C3%A4sentationen/Pres10-2020-10-12.pdf)
+- [Sitzung 11 vom 13. Oktober](https://github.com/JoKaBus/VEH2020/blob/master/Pr%C3%A4sentationen/Pres11-2020-10-13.pdf)
 
 ### Merblätter:
 - [Merkblatt](https://github.com/JoKaBus/VEH2020/blob/master/Merkbl%C3%A4tter/MerkblattMathematikVorkurs2020.pdf) (aktuell)
@@ -31,6 +32,7 @@ Kontakt: jonathan.busse(at)hhu.de
 - [Sitzung 1 vom 29. September](https://github.com/JoKaBus/VEH2020/blob/master/GeteilteNotizen/Sitzung-2020-09-29.txt) (einteilung in Break-Up-Räume, Woche 1)
 - [Sitzung 2 vom 30. September](https://github.com/JoKaBus/VEH2020/blob/master/GeteilteNotizen/Sitzung-2020-09-30.txt)
 - [Sitzung 9 vom 9. Oktober](https://github.com/JoKaBus/VEH2020/blob/master/GeteilteNotizen/Sitzung-2020-10-09.txt) (Rückblick auf Woche 2)
+- [Sitzung 10 vom 12. Oktober](https://github.com/JoKaBus/VEH2020/blob/master/GeteilteNotizen/Sitzung-2020-10-12.txt) (Planung für Freitag)
 
 ### Python Code:
 - [Übung 1.1 Aufgabe 2, Visualisierung](https://github.com/JoKaBus/VEH2020/blob/master/PythonCode/U11A2.ipynb)
@@ -40,7 +42,8 @@ Kontakt: jonathan.busse(at)hhu.de
 - [Übung 4.2 Aufgabe 2, Visualisierung](https://github.com/JoKaBus/VEH2020/blob/master/PythonCode/U42A2.ipynb) (oder Sie laden die 
 [Animation](https://github.com/JoKaBus/VEH2020/blob/master/Sonstiges/U42A2ParabolaAnimation.mp4) der Parabel direkt herunter)
 - [Übung 4.3 Aufgabe 1, Visualisierung](https://github.com/JoKaBus/VEH2020/blob/master/PythonCode/U43A1.ipynb) 
-- [Übung 5.1 Aufgabe 1, Visualisierung](https://github.com/JoKaBus/VEH2020/blob/master/PythonCode/U53A1.ipynb) 
+- [Übung 5.1 Aufgabe 1, Visualisierung](https://github.com/JoKaBus/VEH2020/blob/master/PythonCode/U51A1.ipynb) 
+- [Übung 5.2 Aufgabe 1, Visualisierung](https://github.com/JoKaBus/VEH2020/blob/master/PythonCode/U52A1.ipynb) 
 
 Wenn Sie der Code für die [Fraktale](https://www.instagram.com/p/CGN671jjbgx/) Interessiert, fragen Sie einfach nach. Weitere Visualisierungen gibt es auf [Instagram](https://www.instagram.com/p/CGN7cpSC6mq/).
 
