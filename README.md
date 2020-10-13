@@ -23,6 +23,7 @@ Kontakt: jonathan.busse(at)hhu.de
 - [Sitzung 9 vom 9. Oktober](https://github.com/JoKaBus/VEH2020/blob/master/Pr%C3%A4sentationen/Pres9-2020-10-09.pdf)
 - [Sitzung 10 vom 12. Oktober](https://github.com/JoKaBus/VEH2020/blob/master/Pr%C3%A4sentationen/Pres10-2020-10-12.pdf)
 - [Sitzung 11 vom 13. Oktober](https://github.com/JoKaBus/VEH2020/blob/master/Pr%C3%A4sentationen/Pres11-2020-10-13.pdf)
+- [Sitzung 12 vom 14. Oktober](https://github.com/JoKaBus/VEH2020/blob/master/Pr%C3%A4sentationen/Pres11-2020-10-13.pdf)
 
 ### Merblätter:
 - [Merkblatt](https://github.com/JoKaBus/VEH2020/blob/master/Merkbl%C3%A4tter/MerkblattMathematikVorkurs2020.pdf) (aktuell)
@@ -43,7 +44,9 @@ Kontakt: jonathan.busse(at)hhu.de
 [Animation](https://github.com/JoKaBus/VEH2020/blob/master/Sonstiges/U42A2ParabolaAnimation.mp4) der Parabel direkt herunter)
 - [Übung 4.3 Aufgabe 1, Visualisierung](https://github.com/JoKaBus/VEH2020/blob/master/PythonCode/U43A1.ipynb) 
 - [Übung 5.1 Aufgabe 1, Visualisierung](https://github.com/JoKaBus/VEH2020/blob/master/PythonCode/U51A1.ipynb) 
-- [Übung 5.2 Aufgabe 1, Visualisierung](https://github.com/JoKaBus/VEH2020/blob/master/PythonCode/U52A1.ipynb) 
+- [Übung 5.2 Aufgabe 1, Visualisierung](https://github.com/JoKaBus/VEH2020/blob/master/PythonCode/U52A1.ipynb)
+- [Übung 5.2 Aufgabe 1, Visualisierung](https://github.com/JoKaBus/VEH2020/blob/master/PythonCode/U53A1.ipynb) 
+
 
 Wenn Sie der Code für die [Fraktale](https://www.instagram.com/p/CGN671jjbgx/) Interessiert, fragen Sie einfach nach. Weitere Visualisierungen gibt es auf [Instagram](https://www.instagram.com/p/CGN7cpSC6mq/).
 
