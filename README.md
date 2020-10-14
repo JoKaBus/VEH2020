@@ -23,7 +23,7 @@ Kontakt: jonathan.busse(at)hhu.de
 - [Sitzung 9 vom 9. Oktober](https://github.com/JoKaBus/VEH2020/blob/master/Pr%C3%A4sentationen/Pres9-2020-10-09.pdf)
 - [Sitzung 10 vom 12. Oktober](https://github.com/JoKaBus/VEH2020/blob/master/Pr%C3%A4sentationen/Pres10-2020-10-12.pdf)
 - [Sitzung 11 vom 13. Oktober](https://github.com/JoKaBus/VEH2020/blob/master/Pr%C3%A4sentationen/Pres11-2020-10-13.pdf)
-- [Sitzung 12 vom 14. Oktober](https://github.com/JoKaBus/VEH2020/blob/master/Pr%C3%A4sentationen/Pres11-2020-10-13.pdf)
+- [Sitzung 12 vom 14. Oktober](https://github.com/JoKaBus/VEH2020/blob/master/Pr%C3%A4sentationen/Pres12-2020-10-14.pdf)
 
 ### Merblätter:
 - [Merkblatt](https://github.com/JoKaBus/VEH2020/blob/master/Merkbl%C3%A4tter/MerkblattMathematikVorkurs2020.pdf) (aktuell)
