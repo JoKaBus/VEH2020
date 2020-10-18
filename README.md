@@ -26,6 +26,7 @@ Kontakt: jonathan.busse(at)hhu.de
 - [Sitzung 12 vom 14. Oktober](https://github.com/JoKaBus/VEH2020/blob/master/Pr%C3%A4sentationen/Pres12-2020-10-14.pdf)
 - [Sitzung 13 vom 15. Oktober](https://github.com/JoKaBus/VEH2020/blob/master/Pr%C3%A4sentationen/Pres13-2020-10-15.pdf)
 - [Sitzung 14 vom 16. Oktober](https://github.com/JoKaBus/VEH2020/blob/master/Pr%C3%A4sentationen/Pres14-2020-10-16.pdf) (Speed-Dating)
+- [Sitzung 15 vom 19. Oktober](https://github.com/JoKaBus/VEH2020/blob/master/Pr%C3%A4sentationen/Pres15-2020-10-19.pdf) 
 
 
 ### Merblätter:
