@@ -38,6 +38,7 @@ Kontakt: jonathan.busse(at)hhu.de
 - [Sitzung 2 vom 30. September](https://github.com/JoKaBus/VEH2020/blob/master/GeteilteNotizen/Sitzung-2020-09-30.txt)
 - [Sitzung 9 vom 9. Oktober](https://github.com/JoKaBus/VEH2020/blob/master/GeteilteNotizen/Sitzung-2020-10-09.txt) (Rückblick auf Woche 2)
 - [Sitzung 10 vom 12. Oktober](https://github.com/JoKaBus/VEH2020/blob/master/GeteilteNotizen/Sitzung-2020-10-12.txt) (Planung für Freitag)
+- [Sitzung 15 vom 19. Oktober](https://github.com/JoKaBus/VEH2020/blob/master/GeteilteNotizen/Sitzung-2020-10-19.txt) (Rückblick auf Woche 3)
 
 ### Python Code:
 - [Übung 1.1 Aufgabe 2, Visualisierung](https://github.com/JoKaBus/VEH2020/blob/master/PythonCode/U11A2.ipynb)
