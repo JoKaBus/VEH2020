@@ -28,7 +28,8 @@ Kontakt: jonathan.busse(at)hhu.de
 - [Sitzung 14 vom 16. Oktober](https://github.com/JoKaBus/VEH2020/blob/master/Pr%C3%A4sentationen/Pres14-2020-10-16.pdf) (Speed-Dating)
 - [Sitzung 15 vom 19. Oktober](https://github.com/JoKaBus/VEH2020/blob/master/Pr%C3%A4sentationen/Pres15-2020-10-19.pdf)
 - [Sitzung 16 vom 20. Oktober](https://github.com/JoKaBus/VEH2020/blob/master/Pr%C3%A4sentationen/Pres16-2020-10-20.pdf) 
-- [Sitzung 17 vom 21. Oktober](https://github.com/JoKaBus/VEH2020/blob/master/Pr%C3%A4sentationen/Pres17-2020-10-21.pdf) 
+- [Sitzung 17 vom 21. Oktober](https://github.com/JoKaBus/VEH2020/blob/master/Pr%C3%A4sentationen/Pres17-2020-10-21.pdf)
+- [Sitzung 18 vom 22. Oktober](https://github.com/JoKaBus/VEH2020/blob/master/Pr%C3%A4sentationen/Pres18-2020-10-22.pdf)
 
 
 
