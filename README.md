@@ -30,7 +30,7 @@ Kontakt: jonathan.busse(at)hhu.de
 - [Sitzung 16 vom 20. Oktober](https://github.com/JoKaBus/VEH2020/blob/master/Pr%C3%A4sentationen/Pres16-2020-10-20.pdf) 
 - [Sitzung 17 vom 21. Oktober](https://github.com/JoKaBus/VEH2020/blob/master/Pr%C3%A4sentationen/Pres17-2020-10-21.pdf)
 - [Sitzung 18 vom 22. Oktober](https://github.com/JoKaBus/VEH2020/blob/master/Pr%C3%A4sentationen/Pres18-2020-10-22.pdf)
-
+- [Sitzung 19 vom 23. Oktober](https://github.com/JoKaBus/VEH2020/blob/master/Pr%C3%A4sentationen/Pres19-2020-10-23.pdf) (Kursabschluss)
 
 
 ### Merblätter:
